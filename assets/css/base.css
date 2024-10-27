@@ -1,43 +1,22 @@
+/*reset*/
 * {
   margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
+  padding:0;
+  box-sizing: border-box;}
 /* Base font and background */
 body {
+  margin: 40px;
+  background-color: #7E60BF;
   font-family: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
   font-size: 18px;
   line-height: 1.6;
-  color: ##00008B;
-  background-color: #e6e6fa;
-  margin: 20px;
-}
+  color: white;}
 
-/* Headers */
-h1, h2 {
-  color: #007acc;
-  margin-bottom: 10px;
-}
-
-h1 {
-  font-size: 2em;
-}
-
-h2 {
-  font-size: 1.5em;
-
-/* Paragraphs */
-p {
-  margin-bottom: 15px;
-}
-
-/* Links */
-a {
-  color: ##4169E1;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
+img{
+    width: 105%;}
+h1{
+  font-size: 48px;}
+h2{
+  font-size:36px;}
+h3{
+  font-size: 24px;}
